@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1,h2{
+	font-family: arial;
+	font-color: white;
+}
+
+.kamera-einstellung{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.kontakt{
+	margin-top: 100px;
+}
+.jumbotron{
+	background-color: black;
+	color: white;
+}
+section.home{
+	display: flex;
+	justify-content: center
+}
+.button{
+	height: 15px;
+}
+
+body{
+	background-color: black;
+}
+
+table{
+	border-collapse: separate;
+	width: 90%;
+	height: 100%;
+}
+
+ul.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+	background-color: #000000;
+	font-family: arial;
+}
+
+li {
+  float: left;
+}
+
+button{
+	height: 100px;
+}
+
+li a.nav {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul a.hover{
+	color: aqua;
+	text-decoration: none;
+}
+
+ul a.active {
+  background-color: aqua;
+}
+
+p{
+	font-family: arial;
+	display: flex;
+	justify-content: center;
+	color: white;
+}
+
+.text-center{
+	color: white;
+}
+
+footer{
+	padding-top: 30px;
+	height: 50px;
+}
+
+img{
+	width: 98%;
+	margin:10px;
+}
